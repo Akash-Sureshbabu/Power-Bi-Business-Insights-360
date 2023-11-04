@@ -6,10 +6,10 @@
 
  It contain more than 10+ table which are connected to each other,
 
-## Home Page
+## Home Page _[Link](https://github.com/Akash-Sureshbabu/Power-Bi-Business-Insights-360/blob/main/Home%20Page.pdf)_
   Contain financial, sales, marketing supply chain, executive Views for Navigation and support.
 
-## Financial View
+## Financial View _[Link](https://github.com/Akash-Sureshbabu/Power-Bi-Business-Insights-360/blob/main/Financial%20View.pdf)_
 ### Contain
   - Net Sales
   - Net Profit %
@@ -18,7 +18,7 @@
   - Net Sales Performance Over Time(Chart)
   - Top / Bottom Products & Customers by Net Sales
 
-## Sales View
+## Sales View _[Link](https://github.com/Akash-Sureshbabu/Power-Bi-Business-Insights-360/blob/main/Sales%20View.pdf)_
  ### Contain
   - Customer Performance
   - Performance Matrix
@@ -26,14 +26,14 @@
   - Unit Economics (Pie Diagram)
 
 
-## Marketing View
+## Marketing View _[Link](https://github.com/Akash-Sureshbabu/Power-Bi-Business-Insights-360/blob/main/Marketing%20View.pdf)_
 ### Contain
   - Product Performance
   - Region / Market / Customer Performance 
   - Performance Matrix (Chart)
   - Unit Economics (Chart)
 
-## Supply Chain View
+## Supply Chain View _[Link](https://github.com/Akash-Sureshbabu/Power-Bi-Business-Insights-360/blob/main/Supply%20Chain%20View.pdf)_
 ### Contain
   - Forecast Accuracy
   - Net Error 
@@ -42,7 +42,7 @@
   - Accuracy / net error (Chart)
   - Key Metrics by using Product
 
-## Executive View
+## Executive View _[Link](https://github.com/Akash-Sureshbabu/Power-Bi-Business-Insights-360/blob/main/Executive%20View.pdf)_
 ### Contain
   - Net Sales 
   - Net Profit %
