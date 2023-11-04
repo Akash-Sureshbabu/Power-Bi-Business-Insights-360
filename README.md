@@ -2,7 +2,8 @@
 
 *** Problem Statement ***
 
-## [Data Modeling]_(https://github.com/Akash-Sureshbabu/Power-Bi-Business-Insights-360/blob/main/Data%20Model.pdf) 
+ ## Data Model _[Link](https://github.com/Akash-Sureshbabu/Power-Bi-Business-Insights-360/blob/main/Data%20Model.pdf)_
+
  It contain more than 10+ table which are connected to each other,
 
 ## Home Page
