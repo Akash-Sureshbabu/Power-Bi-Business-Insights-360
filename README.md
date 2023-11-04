@@ -2,6 +2,8 @@
 
 *** Problem Statement ***
 
+## Click Here for [Live Dashboad](https://app.powerbi.com/view?r=eyJrIjoiODUwMmM0MTktYjcwZC00OTdhLWExYjEtMDg5NWI4MTZlYTBjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
  ## Data Model _[Link](https://github.com/Akash-Sureshbabu/Power-Bi-Business-Insights-360/blob/main/Data%20Model.pdf)_
 
  It contain more than 10+ table which are connected to each other,
