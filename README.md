@@ -2,11 +2,11 @@
 
 *** Problem Statement ***
 
-## Data Modeling 
+## [Data Modeling]_(https://github.com/Akash-Sureshbabu/Power-Bi-Business-Insights-360/blob/main/Data%20Model.pdf) 
  It contain more than 10+ table which are connected to each other,
 
 ## Home Page
-  Contain financial, sales, marketing supply chain, executive Views for Navigation and support 
+  Contain financial, sales, marketing supply chain, executive Views for Navigation and support.
 
 ## Financial View
 ### Contain
